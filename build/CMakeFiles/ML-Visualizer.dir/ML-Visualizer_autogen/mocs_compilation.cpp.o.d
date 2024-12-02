@@ -1,6 +1,7 @@
-CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o: \
-  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp \
-  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.h \
+CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o: \
+  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp \
+  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/UVLADIE3JM/moc_main_window.cpp \
+  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/UVLADIE3JM/../../../src/main_window.h \
   /opt/homebrew/lib/QtWidgets.framework/Headers/QMainWindow \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qmainwindow.h \
   /opt/homebrew/include/QtWidgets/qtwidgetsglobal.h \
@@ -931,4 +932,5 @@ CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o: \
   /opt/homebrew/include/QtWidgets/QStatusBar \
   /opt/homebrew/lib/QtWidgets.framework/Headers/qstatusbar.h \
   /opt/homebrew/include/QtWidgets/QWidget \
-  /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h
+  /opt/homebrew/lib/QtWidgets.framework/Headers/qwidget.h \
+  /opt/homebrew/include/QtCore/qtmochelpers.h

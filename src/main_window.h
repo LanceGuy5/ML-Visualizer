@@ -3,11 +3,12 @@
 
 #include <QMainWindow>
 
-#include "../build/ML-Visualizer_autogen/include/ui_main_window.h"
+// ui files
+#include "ui_main_window.h"
 
 QT_BEGIN_NAMESPACE
 namespace Ui {
-  class MainWindow;
+  class Main;
 }
 QT_END_NAMESPACE
 
@@ -19,6 +20,6 @@ public:
     ~MainWindow();
 
 private:
-    Ui::MainWindow *ui;
+    Ui::Main *ui;
 };
 #endif // MainWindow_H

@@ -908,7 +908,7 @@ CMakeFiles/ML-Visualizer.dir/src/main.cpp.o: \
   /opt/homebrew/include/QtGui/qcursor.h \
   /opt/homebrew/include/QtGui/qbitmap.h \
   /opt/homebrew/include/QtWidgets/qtabwidget.h \
-  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/../build/ML-Visualizer_autogen/include/ui_main_window.h \
+  /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/include/ui_main_window.h \
   /opt/homebrew/include/QtCore/QVariant \
   /opt/homebrew/lib/QtCore.framework/Headers/qvariant.h \
   /opt/homebrew/include/QtWidgets/QApplication \

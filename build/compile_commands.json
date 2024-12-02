@@ -1,6 +1,12 @@
 [
 {
   "directory": "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build",
+  "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/include -I/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/ui -I/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/build -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp",
+  "file": "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o"
+},
+{
+  "directory": "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build",
   "command": "/usr/bin/clang++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/include -I/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/ui -I/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/build -isystem /opt/homebrew/lib/QtWidgets.framework/Headers -iframework /opt/homebrew/lib -isystem /opt/homebrew/lib/QtCore.framework/Headers -isystem /opt/homebrew/share/qt/mkspecs/macx-clang -isystem /opt/homebrew/include -isystem /opt/homebrew/lib/QtGui.framework/Headers -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.2.sdk -o CMakeFiles/ML-Visualizer.dir/src/main.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp",
   "file": "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp",
   "output": "CMakeFiles/ML-Visualizer.dir/src/main.cpp.o"

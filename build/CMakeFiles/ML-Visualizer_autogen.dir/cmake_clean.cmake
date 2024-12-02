@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/ML-Visualizer_autogen"
+  "ML-Visualizer_autogen/mocs_compilation.cpp"
   "ML-Visualizer_autogen/timestamp"
 )
 
