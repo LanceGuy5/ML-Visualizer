@@ -73,7 +73,7 @@ ML-Visualizer_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
 ML-Visualizer_autogen/timestamp: /opt/homebrew/share/qt/libexec/uic
 ML-Visualizer_autogen/timestamp: CMakeFiles/ML-Visualizer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ML-Visualizer"
-	/opt/homebrew/bin/cmake -E cmake_autogen /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles/ML-Visualizer_autogen.dir/AutogenInfo.json Debug
+	/opt/homebrew/bin/cmake -E cmake_autogen /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles/ML-Visualizer_autogen.dir/AutogenInfo.json ""
 	/opt/homebrew/bin/cmake -E touch /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/timestamp
 
 CMakeFiles/ML-Visualizer.dir/codegen:
@@ -83,43 +83,43 @@ CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o: CMake
 CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o: ML-Visualizer_autogen/mocs_compilation.cpp
 CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o: CMakeFiles/ML-Visualizer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o -MF CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o -MF CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp
 
 CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp > CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp > CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.i
 
 CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp -o CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/mocs_compilation.cpp -o CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.s
 
 CMakeFiles/ML-Visualizer.dir/src/main.cpp.o: CMakeFiles/ML-Visualizer.dir/flags.make
 CMakeFiles/ML-Visualizer.dir/src/main.cpp.o: /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp
 CMakeFiles/ML-Visualizer.dir/src/main.cpp.o: CMakeFiles/ML-Visualizer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/ML-Visualizer.dir/src/main.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/src/main.cpp.o -MF CMakeFiles/ML-Visualizer.dir/src/main.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/src/main.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/src/main.cpp.o -MF CMakeFiles/ML-Visualizer.dir/src/main.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/src/main.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp
 
 CMakeFiles/ML-Visualizer.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ML-Visualizer.dir/src/main.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp > CMakeFiles/ML-Visualizer.dir/src/main.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp > CMakeFiles/ML-Visualizer.dir/src/main.cpp.i
 
 CMakeFiles/ML-Visualizer.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ML-Visualizer.dir/src/main.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp -o CMakeFiles/ML-Visualizer.dir/src/main.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main.cpp -o CMakeFiles/ML-Visualizer.dir/src/main.cpp.s
 
 CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o: CMakeFiles/ML-Visualizer.dir/flags.make
 CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o: /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp
 CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o: CMakeFiles/ML-Visualizer.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o -MF CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o -MF CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp
 
 CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.i"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp > CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.i
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp > CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.i
 
 CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s"
-	/usr/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp -o CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp -o CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s
 
 # Object files for target ML-Visualizer
 ML__Visualizer_OBJECTS = \

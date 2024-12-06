@@ -72,7 +72,7 @@ ML-Visualizer_autogen/timestamp: /opt/homebrew/share/qt/libexec/moc
 ML-Visualizer_autogen/timestamp: /opt/homebrew/share/qt/libexec/uic
 ML-Visualizer_autogen/timestamp: CMakeFiles/ML-Visualizer_autogen.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --blue --bold --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Automatic MOC and UIC for target ML-Visualizer"
-	/opt/homebrew/bin/cmake -E cmake_autogen /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles/ML-Visualizer_autogen.dir/AutogenInfo.json Debug
+	/opt/homebrew/bin/cmake -E cmake_autogen /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles/ML-Visualizer_autogen.dir/AutogenInfo.json ""
 	/opt/homebrew/bin/cmake -E touch /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/timestamp
 
 CMakeFiles/ML-Visualizer_autogen.dir/codegen:
