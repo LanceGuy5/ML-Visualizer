@@ -5,37 +5,38 @@ project(ML-Visualizer)
 # Find Qt packages
 find_package(Qt6 REQUIRED COMPONENTS Widgets)
 
-# Set the UI file path
-set(UI_FILES ${CMAKE_SOURCE_DIR}/ui)
-
-# Enable automatic UIC processing
+# Enable automatic Qt processing
 set(CMAKE_AUTOMOC ON)
 set(CMAKE_AUTORCC ON)
 set(CMAKE_AUTOUIC ON)
 
-# point automatic UIC processing:
-set(CMAKE_AUTOUIC_SEARCH_PATHS ${UI_FILES})
-qt6_wrap_ui(UI_HEADERS ${UI_FILES})
+# Set UI file directory for AUTOUIC
+set(CMAKE_AUTOUIC_SEARCH_PATHS ${CMAKE_SOURCE_DIR}/ui)
 
+# Add source files
 set(SOURCES
     src/main.cpp
     src/main_window.cpp
-    ${UI_HEADERS}
+    src/renderers/model_renderer.cpp
+    src/models/model.cpp
 )
 
 set(HEADERS
     src/main_window.h
+    src/renderers/model_renderer.h
+    src/models/model.h
 )
 
-# Add the executable and include the UI files
-add_executable(ML-Visualizer
-    src/main.cpp
-    src/main_window.cpp
-)
+# Add the executable
+add_executable(ML-Visualizer ${SOURCES})
 
-# Add include directories
-include_directories(${CMAKE_SOURCE_DIR}/ui)
-include_directories(${CMAKE_BINARY_DIR}/ML-Visualizer_autogen/build)
+# Include project directories
+target_include_directories(ML-Visualizer PRIVATE
+    ${CMAKE_SOURCE_DIR}/src
+    ${CMAKE_SOURCE_DIR}/src/renderers
+    ${CMAKE_SOURCE_DIR}/src/models
+    ${CMAKE_SOURCE_DIR}/ui
+)
 
 # Link Qt libraries
 target_link_libraries(ML-Visualizer Qt6::Widgets)

@@ -271,7 +271,7 @@
 		"/opt/homebrew/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
 		"/opt/homebrew/lib/cmake/Qt6/Qt6Targets.cmake",
 		"/opt/homebrew/lib/cmake/Qt6/Qt6VersionlessTargets.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtFeature.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtFeature.cmake",
 		"/opt/homebrew/share/cmake/Modules/CheckCXXCompilerFlag.cmake",
 		"/opt/homebrew/share/cmake/Modules/Internal/CheckCompilerFlag.cmake",
 		"/opt/homebrew/share/cmake/Modules/Internal/CheckFlagCommonConfig.cmake",
@@ -279,19 +279,19 @@
 		"/opt/homebrew/share/cmake/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake",
 		"/opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake",
 		"/opt/homebrew/share/cmake/Modules/Internal/CheckSourceCompiles.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtFeatureCommon.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtFeatureCommon.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicAppleHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicCMakeHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicCMakeVersionHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicExternalProjectHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicFinalizerHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicFindPackageHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicPluginHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicTargetHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicTestHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicToolHelpers.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
 		"/opt/homebrew/lib/cmake/Qt6/Qt6Dependencies.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindThreads.cmake",
@@ -338,7 +338,7 @@
 		"/opt/homebrew/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
 		"/opt/homebrew/lib/cmake/Qt6Core/Qt6CoreDependencies.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/FindWrapAtomic.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/FindWrapAtomic.cmake",
 		"/opt/homebrew/share/cmake/Modules/CheckCXXSourceCompiles.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake",
@@ -400,13 +400,13 @@
 		"/opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
 		"/opt/homebrew/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
 		"/opt/homebrew/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/FindWrapOpenGL.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindOpenGL.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake",
-		"/opt/homebrew/Cellar/qt/6.7.2_2/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
+		"/opt/homebrew/Cellar/qt/6.7.3/lib/cmake/Qt6/FindWrapVulkanHeaders.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindVulkan.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageHandleStandardArgs.cmake",
 		"/opt/homebrew/share/cmake/Modules/FindPackageMessage.cmake",
@@ -563,6 +563,18 @@
 			"MU",
 			"UVLADIE3JM/moc_main_window.cpp",
 			null
+		],
+		[
+			"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models/model.h",
+			"MU",
+			"M4YTXQ7V2H/moc_model.cpp",
+			null
+		],
+		[
+			"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers/model_renderer.h",
+			"MU",
+			"GTW4662OFA/moc_model_renderer.cpp",
+			null
 		]
 	],
 	"HEADER_EXTENSIONS" : [ "h", "hh", "h++", "hm", "hpp", "hxx", "in", "txx" ],
@@ -578,8 +590,10 @@
 	],
 	"MOC_INCLUDES" : 
 	[
+		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src",
+		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers",
+		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models",
 		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/ui",
-		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/build",
 		"/opt/homebrew/lib/QtWidgets.framework/Headers",
 		"/opt/homebrew/lib/QtWidgets.framework",
 		"/opt/homebrew/lib/QtCore.framework/Headers",
@@ -615,10 +629,7 @@
 	],
 	"MOC_PREDEFS_FILE" : "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ML-Visualizer_autogen/moc_predefs.h",
 	"MOC_RELAXED_MODE" : false,
-	"MOC_SKIP" : 
-	[
-		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ui_ui.h"
-	],
+	"MOC_SKIP" : [],
 	"MULTI_CONFIG" : false,
 	"PARALLEL" : 8,
 	"PARSE_CACHE_FILE" : "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles/ML-Visualizer_autogen.dir/ParseCache.txt",
@@ -638,14 +649,21 @@
 			"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp",
 			"MU",
 			null
+		],
+		[
+			"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models/model.cpp",
+			"MU",
+			null
+		],
+		[
+			"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers/model_renderer.cpp",
+			"MU",
+			null
 		]
 	],
 	"UIC_OPTIONS" : [],
 	"UIC_SEARCH_PATHS" : [ "/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/ui" ],
-	"UIC_SKIP" : 
-	[
-		"/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/ui_ui.h"
-	],
+	"UIC_SKIP" : [],
 	"UIC_UI_FILES" : [],
 	"USE_BETTER_GRAPH" : false,
 	"VERBOSITY" : 0

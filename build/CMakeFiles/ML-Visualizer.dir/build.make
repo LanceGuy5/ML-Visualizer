@@ -121,11 +121,41 @@ CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/main_window.cpp -o CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.s
 
+CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o: CMakeFiles/ML-Visualizer.dir/flags.make
+CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o: /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers/model_renderer.cpp
+CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o: CMakeFiles/ML-Visualizer.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o -MF CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers/model_renderer.cpp
+
+CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers/model_renderer.cpp > CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.i
+
+CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/renderers/model_renderer.cpp -o CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.s
+
+CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o: CMakeFiles/ML-Visualizer.dir/flags.make
+CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o: /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models/model.cpp
+CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o: CMakeFiles/ML-Visualizer.dir/compiler_depend.ts
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o -MF CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o.d -o CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o -c /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models/model.cpp
+
+CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing CXX source to CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models/model.cpp > CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.i
+
+CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling CXX source to assembly CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/src/models/model.cpp -o CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.s
+
 # Object files for target ML-Visualizer
 ML__Visualizer_OBJECTS = \
 "CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o" \
 "CMakeFiles/ML-Visualizer.dir/src/main.cpp.o" \
-"CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o"
+"CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o" \
+"CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o" \
+"CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o"
 
 # External object files for target ML-Visualizer
 ML__Visualizer_EXTERNAL_OBJECTS =
@@ -133,12 +163,14 @@ ML__Visualizer_EXTERNAL_OBJECTS =
 ML-Visualizer: CMakeFiles/ML-Visualizer.dir/ML-Visualizer_autogen/mocs_compilation.cpp.o
 ML-Visualizer: CMakeFiles/ML-Visualizer.dir/src/main.cpp.o
 ML-Visualizer: CMakeFiles/ML-Visualizer.dir/src/main_window.cpp.o
+ML-Visualizer: CMakeFiles/ML-Visualizer.dir/src/renderers/model_renderer.cpp.o
+ML-Visualizer: CMakeFiles/ML-Visualizer.dir/src/models/model.cpp.o
 ML-Visualizer: CMakeFiles/ML-Visualizer.dir/build.make
 ML-Visualizer: /opt/homebrew/lib/QtWidgets.framework/Versions/A/QtWidgets
 ML-Visualizer: /opt/homebrew/lib/QtGui.framework/Versions/A/QtGui
 ML-Visualizer: /opt/homebrew/lib/QtCore.framework/Versions/A/QtCore
 ML-Visualizer: CMakeFiles/ML-Visualizer.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Linking CXX executable ML-Visualizer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --bold --progress-dir=/Users/lancehartman/Documents/Qt-Projects/ML-Visualizer/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable ML-Visualizer"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/ML-Visualizer.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -9,14 +9,20 @@ class QAction;
 class QLabel;
 class QPushButton;
 
+enum class State { MENU, NEW };
+
 class MainWindow : public QMainWindow {
   Q_OBJECT
 
 public:
   explicit MainWindow(QWidget *parent = nullptr);
   ~MainWindow();
+  void set_state(State s);
+  void render_state();
 
 private:
+  /* STATE MACHINE */
+  State state = State::MENU;
 
   /* RENDERING TITLE */
   QLabel *title;
@@ -26,8 +32,8 @@ private:
   QPushButton *newButton;
 
   /* MENU STUFF */
-  void setupMenu(); 
-  QMenuBar *menuBar;  
+  void setupMenu();
+  QMenuBar *menuBar;
   QMenu *fileMenu;
   QMenu *editMenu;
   QMenu *helpMenu;
@@ -41,7 +47,7 @@ private:
   QAction *aboutAction;
 
 private slots:
-  void showAboutDialog(); 
+  void showAboutDialog();
   void newButtonPressed();
 };
 
